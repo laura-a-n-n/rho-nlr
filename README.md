@@ -6,7 +6,7 @@
   <img src='img/bunny-square.gif?raw=true' alt='GIF rendered with NLR.' />
 </p>
 
-The idea behind `rho-nlr` is to have the appearance model of E output coefficients in a spherical harmonic basis. This allows for simultaneous novel view synthesis and relighting from a sparse model.
+The idea behind `rho-nlr` is to have the appearance model output coefficients in a spherical harmonic basis. This allows for simultaneous novel view synthesis and relighting from a sparse model, given supervision of light direction.
 
 **COMING SOON**: pretrained models and more details.
 
