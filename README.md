@@ -30,6 +30,3 @@ python test.py --model path/to/fitted/model --dataset_path path/to/data/folder -
 ```
 
 For more options, try running either script with the help flag, e.g.  `python train.py -h`, or edit the [config file](conf/config.py).
-
-## Pretrained models
-The `h5` directory contains two trained models. The folder `pretrain` is a training initialization; the neural SDF is initialized to a radius of 0.5.
