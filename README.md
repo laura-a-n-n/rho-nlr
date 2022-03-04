@@ -2,10 +2,6 @@
 **Neural Lumigraph Rendering with proof-of-concept controllable illumination in TensorFlow 2.** <br />
 <sub>Undergraduate project by Laura Ann Perkins, [New College of Florida](https://ncf.edu/).</sub>
 
-<p align='center'>
-  <img src='img/bunny-square.gif?raw=true' alt='GIF rendered with NLR.' />
-</p>
-
 The idea behind `rho-nlr` is to have the appearance model output coefficients in a spherical harmonic basis. This allows for simultaneous novel view synthesis and relighting from a sparse model, given supervision of light direction.
 
 **COMING SOON**: pretrained models and more details.
